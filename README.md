@@ -29,4 +29,4 @@ This is a simple mobile application that demonstrates the container widget. This
 
 <img width="269" height="609" alt="ContainerWidget" src="https://github.com/user-attachments/assets/31457744-e242-4239-857a-12d798947e9f" />
 
-&;copy MUVUNYI Ndamage Herve Duke
+© All Copyrights reserved - MUVUNYI Ndamage Herve Duke
